@@ -49,7 +49,7 @@
   .Kastrostreaming .album-cover {
 	width: 243px;
 	height: 243px;
-	background: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/q4wyeNb.png)center no-repeat;
+	background: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/q4wyeNb.png)center no-repeat;
 	background-size: cover;
 	position: absolute;
 	opacity: 0.3;
@@ -83,7 +83,7 @@
   .disc{
   width: 245px;            
   height: 245px;           
-  background: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/q4wyeNb.png)center no-repeat;
+  background: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/q4wyeNb.png)center no-repeat;
   background-size: cover;
   position: absolute;
   opacity: 0.7;
@@ -317,24 +317,24 @@
 	background-color: ;
    }
    .Kastrostreaming .play-btn {
-	background: url(https://kastro-59.github.io/star/Syntetic/play-sintetic.png);
+	background: url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/play-sintetic.png);
 	background-repeat: no-repeat;
 	background-position: center center;	
 	background-size: 65px 65px;
 	-webkit-transition: background 0.5s;
 	-moz-transition: background 0.5s; 
     transition: background 0.5s;
-    cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+    cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
    }
    .Kastrostreaming .stop-btn {
-	background: url(https://kastro-59.github.io/star/Syntetic/pause-sintetic.png);
+	background: url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/pause-sintetic.png);
 	background-repeat: no-repeat;
 	background-position: center center;	
 	background-size: 65px 65px;
 	-webkit-transition: background 0.5s;
 	-moz-transition: background 0.5s; 
     transition: background 0.5s;
-    cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+    cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
    }
    .Kastrostreaming .icons-left-serv {
 	position: absolute;
@@ -376,31 +376,31 @@
 	content:url(https://img.xatblog.net/image/pRKtO7rksn.png);
    }
    .Kastrostreaming .icons-history:before {
-	content:url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/7Q36XJE.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/7Q36XJE.png);
    }
    .Kastrostreaming .icons-share:before {
 	content:url(https://img.xatblog.net/image/pCisZ5rNA.png);
    }
    .Kastrostreaming .icons-volume1:before {
-	content:url(https://kastro-59.github.io/star/Syntetic/Ts10elrR.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/Ts10elrR.png);
    }
    .Kastrostreaming .icons-volume2:before {
-	content:url(https://kastro-59.github.io/star/Syntetic/twCR41oR.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/twCR41oR.png);
    }
    .Kastrostreaming .icons-volume3:before {
-	content:url(https://kastro-59.github.io/star/Syntetic/V452T5vR.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/V452T5vR.png);
    }
    .Kastrostreaming .icons-volumeM {
 	display: none;
    }
    .Kastrostreaming .icons-volumeM:before {
-	content:url(https://kastro-59.github.io/star/Syntetic/V452T5vR.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/V452T5vR.png);
    }
    .Kastrostreaming .icons-volumeM2:before {
-	content:url(https://kastro-59.github.io/star/Syntetic/Ts10elrR.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/star/Syntetic/Ts10elrR.png);
    }
    .Kastrostreaming .icons-close:before {
-	content:url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/7Q36XJE.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/7Q36XJE.png);
    }
    .Kastrostreaming .volume-slider {
 	position: absolute;
@@ -446,7 +446,7 @@ left: 100%;
 	transform: rotate(360deg);
 	transform-origin: bottom;
 	-webkit-appearance: none;
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 }
 .Kastrostreaming input[type=range]:focus {
 	outline: none;
@@ -459,7 +459,7 @@ left: 100%;
 	padding: 0;
 	border: 0;
 	border-radius: 8px;
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;	
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;	
 	animate: 0.2s;
 }
 .Kastrostreaming input[type=range]:focus::-webkit-slider-runnable-track {
@@ -472,7 +472,7 @@ left: 100%;
 	margin-top: -5px;
 	border: 2px solid #ff000d;
 	border-radius: 50%;
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 	-webkit-appearance: none;
 }
 .Kastrostreaming input[type=range]::-moz-range-track {
@@ -483,7 +483,7 @@ left: 100%;
 	padding: 0;
 	border: 0;
 	border-radius: 8px;
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 	animate: 0.2s; 
 }
 .Kastrostreaming input[type=range]::-moz-range-thumb {
@@ -492,7 +492,7 @@ left: 100%;
 	background: #ccc;
 	border: 3px solid #940d06;
 	border-radius: 50%;
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 }
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 	.Kastrostreaming input[type=range] {
@@ -501,7 +501,7 @@ left: 100%;
 		background: none;
 		margin-top: 0px;
 		padding: 6px 0px 6px 0px; 
-		cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+		cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 	}
 }
 .Kastrostreaming input[type=range]::-ms-tooltip {
@@ -516,7 +516,7 @@ left: 100%;
 	padding: 0;
 	border: 0;
 	border-color: transparent;
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 	animate: 0.2s;  
 }
 .Kastrostreaming input[type=range]::-ms-fill-lower {
@@ -535,7 +535,7 @@ left: 100%;
 	background: #ccc;
 	border: 5px solid #FFFFFF;
 	border-radius: 50%;  
-	cursor: url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
+	cursor: url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/QpftHmt.png), auto;
 }
 .Kastrostreaming input[type=range]:focus::-ms-fill-lower {
 	background: rgba(255,255,255,.);
@@ -651,7 +651,7 @@ left: 100%;
 	background: #;
 }
 .Kastrostreaming .social-link-twitter:before {
-	content:url(https://kastro-59.github.io/Navidad/CostumbrezDVD/CD/ns96FGg.png);
+	content:url(https://inspeccionesserrano.github.io/Perso/Navidad/CostumbrezDVD/CD/ns96FGg.png);
 }
 .Kastrostreaming .display {
 	display: block;
