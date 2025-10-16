@@ -10040,7 +10040,7 @@ return jQuery;
         $(document).ready(function() {
             // Pause/Play functionality
             var playButton = $('.ppBtn'),
-                album = $('.album-cover');
+                album = $('.album-cover1');
             playButton.on('click', function() {
                 $('.player').toggleClass('is-playing');
             });
@@ -10058,7 +10058,7 @@ return jQuery;
 			type: "/;type=mp3",
             streampath: "/stream?icy=http",
 			cors: "",
-            logo: "https://inspeccionesserrano.github.io/Perso/radios/queen/img/logo.png",
+            logo: "img/logo.png",
 			servertitle: "My Radio Title", //For Shoutcast v2 server
             show_listeners: true,    
             src: "",
