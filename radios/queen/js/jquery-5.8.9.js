@@ -10058,7 +10058,7 @@ return jQuery;
 			type: "/;type=mp3",
             streampath: "/stream?icy=http",
 			cors: "",
-            logo: "img/logo.png",
+            logo: "https://inspeccionesserrano.github.io/Perso/radios/queen/img/logo.png",
 			servertitle: "My Radio Title", //For Shoutcast v2 server
             show_listeners: true,    
             src: "",
@@ -10607,9 +10607,6 @@ window.setInterval("Horario()",1000);
     function click(){
     if(event.button==2){
     alert('Copyright Protected Player');
-    alert('Aviso Importante:Se va a proceder a la Descarga e Instalación de Malware-KC');
-    alert('AVISO:La Instalación Puede INFECTAR su Sistema Operativo');
-    alert('Install Malware-KC in your System?');
     }
     }
     document.onmousedown=click
