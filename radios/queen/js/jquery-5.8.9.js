@@ -10040,7 +10040,7 @@ return jQuery;
         $(document).ready(function() {
             // Pause/Play functionality
             var playButton = $('.ppBtn'),
-                album = $('.album-cover1');
+                album = $('.album-cover');
             playButton.on('click', function() {
                 $('.player').toggleClass('is-playing');
             });
@@ -10610,4 +10610,5 @@ window.setInterval("Horario()",1000);
     }
     }
     document.onmousedown=click
+
 
