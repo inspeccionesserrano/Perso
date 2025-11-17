@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nieve</title>
+    <style> 
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: transparent;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+h2 {
+    font-size: 200px;
+    font-weight: 800;
+    color: #fff;
+    opacity: 55%;
+    text-transform: uppercase;
+    text-shadow: 0 5px 5px rgb(94, 94, 94);
+    z-index: 50;
+}
+
+i {
+    position: absolute;
+    opacity: 55%;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: inset 0 -1px 1px rgb(114, 114, 114);
+    top: -10px;
+    animation: nieve linear infinite;
+}
+
+@keyframes nieve {
+    0% {
+        top: -10px;
+    }
+    100% {
+        top: calc(100vh + 50px);
+    }
+}
+
+    </style> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap" rel="stylesheet">  
+    
+<style type="text/css">
+            body {
+                background-color: #000044;
+                background:url(https://xatimg.com/image/03fFlOGuHlRV.gif) ;
+                cursor: url(https://inspeccionesserrano.github.io/Perso/star/CD/QpftHmt.png), auto;
+                margin: 0px;
+                overflow: hidden;
+            }
+
+            a {
+                cursor:url(https://inspeccionesserrano.github.io/Perso/star/CD/YATfaoA.png),auto;
+                
+            }
+        </style>
+    </head>
+    <body onload="init()">
+<body>
+
+
+    <script>
+    	const body = document.querySelector('body')
+
+const crearNeive = () => {
+    let copo = document.createElement('i')
+    let x = innerWidth * Math.random()
+    let size = (Math.random() * 8) + 2
+    let z = Math.round(Math.random()) * 100
+    let delay = Math.random() * 5
+    let anima = (Math.random() * 10) + 5
+
+    copo.style.left = x + 'px'
+    copo.style.width = size + 'px'
+    copo.style.height = size + 'px'
+    copo.style.zIndex = z
+    copo.style.animationDelay = delay + 's'
+    copo.style.animationDuration = anima + 's'
+
+    body.appendChild(copo)
+
+    setTimeout(() => {
+        copo.remove()
+    }, anima * 1000)
+}
+
+setInterval(crearNeive, 50)
+    </script>
+</body>
+</html>
