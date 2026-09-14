@@ -1,4 +1,4 @@
 $("#stream1").icast({
-URL: "https://streamssl.eu:2330",
+URL: "https://cdn4.onstream.audio/proxy/queenradio",
 version: "2",
 })
